@@ -8,7 +8,7 @@ import '../widgets/drawer_widget.dart';
 import '../widgets/background_color_widget.dart';
 
 class DevicesPage extends StatefulWidget {
-  const DevicesPage({super.key});
+  const DevicesPage({Key? key}) : super(key: key);
 
   @override
   DevicesPageState createState() => DevicesPageState();

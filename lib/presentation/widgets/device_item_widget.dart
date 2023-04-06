@@ -7,7 +7,7 @@ import '../pages/device_details_page.dart';
 class DeviceItemWidget extends StatefulWidget {
   final DeviceModel device;
 
-  const DeviceItemWidget(this.device, {super.key});
+  const DeviceItemWidget(this.device, {Key? key}) : super(key: key);
 
   static BoxDecoration boxDecoration = BoxDecoration(
       color: Colors.white,

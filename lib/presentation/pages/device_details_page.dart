@@ -2,7 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
-import '../model/device_model.dart';
+import '../../model/device_model.dart';
 import '../widgets/background_color_widget.dart';
 
 class DeviceDetailsPage extends StatefulWidget {

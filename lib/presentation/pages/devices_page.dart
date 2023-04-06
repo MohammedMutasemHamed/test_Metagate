@@ -1,9 +1,9 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import '../model/device_model.dart';
+import '../../model/device_model.dart';
 import '../widgets/device_item_widget.dart';
-import '../model/devices_model.dart';
+import '../../model/devices_model.dart';
 import '../widgets/drawer_widget.dart';
 import '../widgets/background_color_widget.dart';
 

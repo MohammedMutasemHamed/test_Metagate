@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import '../model/device_model.dart';
+import '../../model/device_model.dart';
 import '../pages/device_details_page.dart';
 
 class DeviceItemWidget extends StatefulWidget {

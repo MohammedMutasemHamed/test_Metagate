@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:test_project/pages/devices_page.dart';
+
+import 'presentation/pages/devices_page.dart';
 
 void main() {
   runApp(const MyApp());
